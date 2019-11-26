@@ -10,12 +10,10 @@ done
 
 
 # install misawat-pms/dotfiles
-wget https://github.com/misawat-pms/dotfiles/archive/master.zip
-unzip unzip master.zip
-mkdir ~/.config
-mkdir ~/.vim
-ln -sf dotfiles-master/.config/nvim ~/.config/
-ln -sf dotfiles-master/.vim/rc ~/.vim/
-ln -sf dotfiles-master/.vimrc ~/
-
-
+#wget https://github.com/misawat-pms/dotfiles/archive/master.zip
+#unzip unzip master.zip
+#mkdir ~/.config
+#mkdir ~/.vim
+#ln -sf dotfiles-master/.config/nvim ~/.config/
+#ln -sf dotfiles-master/.vim/rc ~/.vim/
+#ln -sf dotfiles-master/.vimrc ~/
